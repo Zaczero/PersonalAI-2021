@@ -1,0 +1,10 @@
+[ ] Change default audio
+[ ] Prepare AI engine
+[ ] Setup audio schema (3 repeaters, increase mic buffers)
+- 1 -> speakers
+- mic -> 2
+- 2 -> speakers (*)
+[ ] Prepare pokemon audio (volume 14%)
+[ ] Change Teams audio devices
+[ ] Stop 'noisy' apps
+[ ] Start screen recording
