@@ -32,7 +32,7 @@ This is a school project using which everyone will be able to create their very 
 
 ## Things that are not right
 
-* Import of the `AnswerGenration` module inside the `Engine` project requires some trickery with `PATH` environment variable. Simple project restructure will solve that problem, however, I did not bother with fixing that.
+* Import of the `AnswerGeneration` module inside the `Engine` project requires some trickery with `PATH` environment variable. Simple project restructure will solve that problem, however, I did not bother with fixing that.
 
 * Generating an Azure TTS may sometimes fail whenever doing a coldstart *(timeout issue)*. Processing the same sentence for the second time will most likely generate a proper TTS audio file.
 
