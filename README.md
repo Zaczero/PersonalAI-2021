@@ -13,7 +13,7 @@ This is a school project using which everyone will be able to create their very 
 
 ## Check out this demo
 
-[![asciicast](https://asciinema.org/a/wCDLofeKgSnHrN8LQ3AQo8z5A.svg)](https://asciinema.org/a/wCDLofeKgSnHrN8LQ3AQo8z5A)
+[![asciicast](https://asciinema.org/a/1dWiuYGygeVAaulzYF6V4wbQX.svg)](https://asciinema.org/a/1dWiuYGygeVAaulzYF6V4wbQX)
 
 ## File structure
 

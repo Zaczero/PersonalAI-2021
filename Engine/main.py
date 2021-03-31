@@ -43,7 +43,7 @@ def slugify(value, allow_unicode=False):
 
 
 def get_wav_path(text: str) -> str:
-    return f"../data/Wojtek/{slugify(text)}.{hashlib.sha1(text.encode('utf-8')).hexdigest()[:4]}.wav"
+    return f"../data/Azure/{slugify(text)}.{hashlib.sha1(text.encode('utf-8')).hexdigest()[:4]}.wav"
 
 
 def mic_to_text() -> str:
